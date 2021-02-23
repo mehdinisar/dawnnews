@@ -1,0 +1,132 @@
+#topbar 
+{
+width: 100%;
+margin: 0 auto;
+height:28px;
+background-color:black;
+}
+.topbarsection
+{
+float:left;
+height:100%;
+}
+.heads
+{
+position:relative;
+top:4px;
+left:270px;
+color:#9FA6A1;
+padding-right:14px;
+font-size:10px
+}
+.heading
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+    text-align: center;
+    line-height: 8px;
+    color: #231F20;
+}
+.para
+{
+    text-align: center;
+    font-size: 14px;
+    line-height: 0px;
+    letter-spacing: 1px;
+    color: #C7AEB2;
+}
+ul
+{
+    list-style: none;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    float: left;
+    position:relative;
+    top:4px;
+    left:3px;
+    color:black;
+    padding-right:10px;
+    font-size:11px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+#searchicon
+{
+    position:relative;
+    left: 152px;
+}
+#Search
+{
+    border: none;
+    float: right;
+    font-size: 12px;
+}
+a:hover
+{
+    background-color:#EEEEEE;
+}
+hr{
+    width:95%;
+    position:relative;
+    right: 30px;
+    margin-top: 4px;
+    border: 1px solid #EEEEEE;
+
+}
+.para2
+{
+    text-align: justify;
+    font-size: 28px;
+    font-weight: bold;
+}
+.sec
+{
+    float: left;
+    margin-left: 35px;
+}
+.img
+{
+    margin-top: -30px;
+    width: 480px;
+}
+.sec2
+{
+    position: relative;
+    top:500px;
+    right: 480px;
+}
+.par
+{
+    font-weight: bold;
+    font-size: 20px;
+}
+.comment{
+    border-color: gray  ;
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    border-style: ridge;
+}
+.divv{
+    margin-left: 330px;
+}
+textarea{
+    font-size: 20px;
+    color: lightgray;
+    
+}
+#submit{
+    color: white;
+    background-color: black;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 213px;
+}
+#cption{
+    color: gray;
+    font-size: 20px;
+}
